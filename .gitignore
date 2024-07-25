@@ -1,0 +1,7 @@
+﻿# Ignore everything in the 'idea' directory
+.idea/
+
+# Ignore everything in the 'Dataset' directory...
+/Dataset/*
+/CubaseProject/Audio
+/CubaseProject/Mixdown
